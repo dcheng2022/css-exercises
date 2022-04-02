@@ -11,3 +11,9 @@
 .cooler.odd {
     font-size: 24px;
 }
+
+#two {
+    background-color: rgb(81, 199, 81);
+    font-size: 24px;
+    font-weight: bold;
+}
