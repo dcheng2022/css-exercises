@@ -27,6 +27,7 @@ body {
 .right-header {
   display: flex;
   column-gap: 16px;
+  align-items: center;
 }
 
 .profile-image {
