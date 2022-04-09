@@ -24,6 +24,7 @@ body {
 
 .right-header {
   display: flex;
+  column-gap: 10px;
 }
 
 .profile-image {
