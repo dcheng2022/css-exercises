@@ -15,18 +15,18 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0px 8px;
+  padding: 8px;
 }
 
 .left-header {
   display: flex;
-  column-gap: 8px;
+  column-gap: 16px;
   align-items: center;
 }
 
 .right-header {
   display: flex;
-  column-gap: 8px;
+  column-gap: 16px;
 }
 
 .profile-image {
@@ -62,5 +62,5 @@ ul {
   list-style-type: none;
   display: flex; 
   padding: 0px;
-  column-gap: 8px;
+  column-gap: 16px;
 }
