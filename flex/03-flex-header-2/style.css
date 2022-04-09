@@ -18,13 +18,7 @@ body {
   padding: 8px;
 }
 
-.left-header {
-  display: flex;
-  column-gap: 16px;
-  align-items: center;
-}
-
-.right-header {
+.left-header, .right-header {
   display: flex;
   column-gap: 16px;
   align-items: center;
