@@ -18,6 +18,8 @@ body {
 .content {
   display: flex;
   flex-wrap: wrap;
+  width: 600px;
+  justify-content: center;
 }
 
 img {
