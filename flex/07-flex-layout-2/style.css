@@ -12,7 +12,6 @@ body {
   color: white;
   font-size: 32px;
   font-weight: 900;
-  align-self: stretch;
   display: flex;
   align-items: center;
   padding: 0px 16px;
