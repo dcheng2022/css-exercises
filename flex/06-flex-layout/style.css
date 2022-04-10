@@ -20,6 +20,7 @@ body {
   flex-wrap: wrap;
   width: 600px;
   justify-content: center;
+  align-self: center;
 }
 
 img {
