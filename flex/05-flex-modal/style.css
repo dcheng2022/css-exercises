@@ -51,6 +51,10 @@ body {
   justify-content: space-between;
 }
 
+.text {
+  margin: 24px 0px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
