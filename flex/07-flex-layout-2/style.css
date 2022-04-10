@@ -16,6 +16,11 @@ body {
   display: flex;
 }
 
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .footer {
   height: 72px;
   background: #eee;
