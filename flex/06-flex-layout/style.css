@@ -26,8 +26,10 @@ input {
   margin-bottom: 16px;
 }
 
-li {
+ul {
   list-style-type: none;
+  padding: 0px;
+  margin: 0px;
 }
 
 a {
