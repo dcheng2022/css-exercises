@@ -51,11 +51,15 @@ body {
 ul {
   list-style-type: none;
   margin: 0px;
-  padding: 16px;
+  padding: 0px;
 }
 
 a {
   text-decoration: none;
   color: white;
   font-size: 24px;
+}
+
+li {
+  padding: 16px;
 }
