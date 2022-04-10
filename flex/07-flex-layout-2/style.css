@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: space-between;
 }
 
@@ -38,6 +37,7 @@ body {
   color: darkmagenta;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .sidebar {
