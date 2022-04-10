@@ -32,6 +32,7 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  margin: 0px auto;
 }
 
 .sidebar {
